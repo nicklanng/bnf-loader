@@ -1,0 +1,12 @@
+{
+  "name": "bnf-loader",
+  "version": "0.1.0",
+  "description": "Uses prettyBNF to parse a BNF with webpack and create an AST",
+  "main": "index.js",
+  "repository": "https://github.com/nicklanng/bnf-loader",
+  "author": "<rinse@rinseworld.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettybnf": "^0.1.3"
+  }
+}
